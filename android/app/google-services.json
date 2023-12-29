@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968651940271",
+    "project_id": "apinews-ca57f",
+    "storage_bucket": "apinews-ca57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968651940271:android:eeba17d8d279fb842e8f5a",
+        "android_client_info": {
+          "package_name": "com.example.api_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_JP3-IQg5o4jxbEbTQApvgjLhJRNHpNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
